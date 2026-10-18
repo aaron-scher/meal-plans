@@ -1,2 +1,7 @@
 title: Meal plans
 description: Weekly meal plans and shopping lists, dated
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
